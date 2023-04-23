@@ -1,4 +1,7 @@
-### Hi there 👋 My name Findryan
+### Hi there 👋
+```go
+    fmt.Println("My name Findryan 😁")
+```
 
 <img src="https://komarev.com/ghpvc/?username=Findryankp&&style=flat-square" align="center" />
 
@@ -25,7 +28,8 @@
 <div align="left"> 
  <h3> Connect With Me </h3>
 
-[![LinkedIn](https://img.shields.io/badge/-Findryankp-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Findryankp/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Findryankp/)
+[![Gitlab](https://img.shields.io/badge/gitlab-orange?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/Findryankp)
 </div>
 
 ### GitHub Stats ⭐
