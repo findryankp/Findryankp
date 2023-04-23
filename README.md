@@ -1,6 +1,6 @@
 ### Hi there 👋
 ```go
-    fmt.Println("My name Findryan 😁")
+fmt.Println("My name Findryan 😁")
 ```
 
 <img src="https://komarev.com/ghpvc/?username=Findryankp&&style=flat-square" align="center" />
@@ -9,7 +9,12 @@
     <samp> I am a backend engineer who mastered Golang, PHP, and Javascript. I have more than 3 years in experience as a backend engineer. I included in some Big Projects like Superapps PT.Kimia Farma Tbk, Web PPDB Jawa Timur 2018 - 2019 Dinas Pendidikan Jawa Timur, Web Dewatering system PT Pama Persada Nusantara, etc.
     </samp>
 
-    **languages and tools:**  
+```go
+// languages and tools
+for i, languagesAndTools := range data {
+    printBelow()
+}
+```
 
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
