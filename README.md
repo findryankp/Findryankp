@@ -1,6 +1,5 @@
-### Hi there 👋
 ```go
-fmt.Println("My name Findryan 😁")
+fmt.Println("Hello World 👋, My name is Findryan 😁")
 ```
 
 <img src="https://komarev.com/ghpvc/?username=Findryankp&&style=flat-square" align="center" />
