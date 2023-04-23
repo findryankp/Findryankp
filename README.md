@@ -11,8 +11,8 @@ fmt.Println("My name Findryan 😁")
 
 ```go
 // languages and tools
-for i, languagesAndTools := range data {
-    printBelow()
+for _, data := range languagesAndTools {
+    printBelow(data)
 }
 ```
 
