@@ -1,4 +1,4 @@
-## Hi, there 👋
+## Hello world 👋
 ```go
 fmt.Println("My name is Findryan 😁")
 ```
