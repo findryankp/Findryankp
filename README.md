@@ -10,8 +10,8 @@ fmt.Println("My name is Findryan 😁")
     </samp>
 
 ```go
-// languages and tools
-for _, data := range languagesAndTools {
+// stack technologies
+for _, data := range technologies {
     printBelow(data)
 }
 ```
