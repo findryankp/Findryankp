@@ -34,6 +34,7 @@ for _, data := range technologies {
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Findryankp/)
 [![Gitlab](https://img.shields.io/badge/gitlab-orange?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/Findryankp)
+[![HackerRank](https://img.shields.io/badge/hackerrank-green?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/findryankp)
 </div>
 
 ### GitHub Stats ⭐
