@@ -30,7 +30,7 @@ for _, data := range technologies {
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 
 <div align="left"> 
- <h3> Connect With Me </h3>
+ <h3> See my profile on : </h3>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Findryankp/)
 [![Gitlab](https://img.shields.io/badge/gitlab-orange?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/Findryankp)
