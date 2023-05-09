@@ -29,13 +29,12 @@ for _, data := range technologies {
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 
+### 👨🏽‍💻 See my profile at:
 <div align="left"> 
- <h3> See my profile on : </h3>
-
 [![LinkedIn](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Findryankp/)
 [![Gitlab](https://img.shields.io/badge/gitlab-orange?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/Findryankp)
 [![HackerRank](https://img.shields.io/badge/hackerrank-green?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/findryankp)
 </div>
 
-### GitHub Stats ⭐
+### ⭐ GitHub Stats 
 <div align="left"><img src="https://github-stats-tkiw.vercel.app/api?username=Findryankp&show_icons=true&count_private=true" align="center" /></div> 
