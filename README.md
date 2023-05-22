@@ -6,15 +6,10 @@ fmt.Println("My name is Findryan 😁")
 <img src="https://komarev.com/ghpvc/?username=Findryankp&&style=flat-square" align="center" />
 
 <p align="left">
-    <samp> I am a backend engineer who mastered Golang, PHP, and Javascript. I have more than 3 years in experience as a backend engineer. I included in some Big Projects like Superapps PT.Kimia Farma Tbk, Web PPDB Jawa Timur 2018 - 2019 Dinas Pendidikan Jawa Timur, Web Dewatering system PT Pama Persada Nusantara, etc.
+    <samp> I am a Backend Engineer (Golang). I have more than 3 years in experience as a backend engineer. I included in some Big Projects like Superapps PT.Kimia Farma Tbk, Web PPDB Jawa Timur 2018 - 2019 Dinas Pendidikan Jawa Timur, Web Dewatering system PT Pama Persada Nusantara, etc.
     </samp>
 
-```go
-// stack technologies
-for _, data := range technologies {
-    printBelow(data)
-}
-```
+### Tech Stack:
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png"></code>
@@ -29,7 +24,7 @@ for _, data := range technologies {
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 
-### See my profile on :
+### Connect with me :
 <div align="left"> 
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Findryankp/)
