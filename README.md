@@ -30,6 +30,7 @@ fmt.Println("My name is Findryan 😁")
 [![LinkedIn](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Findryankp/)
 [![Gitlab](https://img.shields.io/badge/gitlab-orange?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/Findryankp)
 [![HackerRank](https://img.shields.io/badge/HackerRank-green?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/findryankp)
+[![findryankp](https://img.shields.io/badge/findryankp-pink?style=for-the-badge&logo=instagram&logoColor=white)](https://www.hackerrank.com/findryankp)
 </div>
 
 ### GitHub Stats ⭐
