@@ -6,7 +6,7 @@ fmt.Println("My name is Findryan 😁")
 <img src="https://komarev.com/ghpvc/?username=Findryankp&&style=flat-square" align="center" />
 
 <p align="left">
-    <samp> I am a Backend Engineer (Golang). I have more than 3 years in experience as a backend engineer. I included in some Big Projects like Superapps PT.Kimia Farma Tbk, Web PPDB Jawa Timur 2018 - 2019 Dinas Pendidikan Jawa Timur, Web Dewatering system PT Pama Persada Nusantara, etc.
+    <samp> I am a Software Engineer who always laugh
     </samp>
 
 ### Tech Stack:
