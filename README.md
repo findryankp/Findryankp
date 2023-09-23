@@ -6,7 +6,7 @@ fmt.Println("My name is Findryan 😁")
 <img src="https://komarev.com/ghpvc/?username=Findryankp&&style=flat-square" align="center" />
 
 <p align="left">
-    <samp> I am a Software Engineer who is always happy and keeps laughing.
+    <samp> Be a Software Engineer who can enlightens the mind and calms the heart.
     </samp>
 
 ### Tech Stack:
